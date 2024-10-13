@@ -11,7 +11,7 @@ Saya seorang **Web Developer** yang berfokus pada **Pengembangan Web** dan **Eks
 
 - Dasar HTML, CSS, dan JavaScript
 - Dasar Git dan GitHub
-- Dasar Chrome Extensions APIs
+- Dasar Chrome Extensions
 - Paham bahasa Inggris
 
 Saya selalu terbuka untuk peluang kolaborasi pada proyek-proyek menarik. Mari kita buat sesuatu yang luar biasa bersama!
